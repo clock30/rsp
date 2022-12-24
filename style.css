@@ -1,0 +1,88 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+div.clear
+{
+    clear: both;
+}
+
+div.container
+{
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 26px;
+    line-height: 30px;
+    margin: 10px 0 20px 0;
+}
+
+p.insert
+{
+    font-size: 18px;
+    line-height: 20px;
+    margin: 0 0 10px 0;
+}
+
+form.rsp
+{
+    display: block;
+    padding: 10px;
+}
+
+div.rsp
+{
+    padding: 10px;
+    margin: 0 0 15px 0;
+    border-radius: 5px;
+    border: 1px solid #999;
+    text-align: center;
+}
+
+p.rsp
+{
+    font-size: 16px;
+    line-height: 18px;
+    margin: 0 0 15px 0;
+
+}
+
+label.insert
+{
+    display: inline-block;
+    margin: 0 0 5px 0;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+input.rsp
+{
+    display: inline-block;
+    box-sizing: border-box;
+    height: 20px;
+    width: 50px;
+    line-height: 20px;
+    text-align: center;
+}
+
+div.buttons
+{
+    text-align: center;
+    margin: 10px 0 5px 0;
+}
+
+a.again
+{
+    color: black;
+    text-decoration: underline;
+    font-size: 16px;
+    line-height: 18px;
+    margin: 0 0 15px 0;
+}
